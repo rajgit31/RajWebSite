@@ -1,0 +1,51 @@
+<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+        <title><%= Resources.PageTitle %></title>
+        <meta name="keywords" content="Raj Aththanayake, ASP.NET, ASP.NET MVC, Raj Software, Software Patterns & Practices" />
+        <meta name="description" content="Latest information on ASP.NET, MVC, Software Patterns & Practices, Book Reviews." />
+        <meta name="author" content="Raj Aththanayke" />
+        <meta name="google-site-verification" content="f1nrUsVQP5QFNslKFCTFFRPtR5WeZoYMz7jqUgLSyWM" />
+        <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1" />
+        <link href="~\Content\Site.css" rel="stylesheet" type="text/css" />
+        <link rel="shortcut icon" href="../../Images/favicon_static.ico" />
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-23506367-2']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+</head>
+<body>
+    <div id="divpage" class="page">
+        <div id="header">
+            <div id="divtoplogoheader" class="toplogoheader">                
+                <img src="Images\logo2.jpg" alt="Raj Aththanayake's site" width="1000px" height="100px" />
+                <div class="mybloglink">
+                    <a href="http://blog.rajsoftware.com/" target="_blank" title="Raj's blog">
+                        <img src="Images\myblog.jpg" alt="My Blog" /></a>
+                </div>                
+                <div class="mytwitter">
+                    <a href="http://twitter.com/raj_kba" target="_blank" title="Follow me on Twitter">
+                        <img src="Images\FollowMe.jpg" alt="Follow me on Twitter" /></a>
+                </div>               
+            </div>
+        </div>
+        <div id="divSiteMap" class="nav">
+            <%= Html.Menu("menu")%>
+        </div>
+        <div id="divmain" class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />            
+        </div>               
+    </div>    
+    <div id="divfooter" class="footer">
+        ©2010 rajsoftware.com
+    </div>
+</body>
+</html>

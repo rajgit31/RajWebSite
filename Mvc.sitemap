@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mvcSiteMap xmlns="http://mvcsitemap.codeplex.com/schemas/MvcSiteMap-File-3.0" enableLocalization="true">
+    <mvcSiteMapNode title="Home" controller="Home" action="Display"  >
+        <!--<mvcSiteMapNode title="News &amp; Events" controller="News" action="Details"  />-->
+        <mvcSiteMapNode title="Book Reviews" controller="BookReviews" action="Details"  />
+        <mvcSiteMapNode title="Presentations" controller="Presentations" action="Details"  />
+        <mvcSiteMapNode title="About Me" controller="About" action="Details"   />
+        <mvcSiteMapNode title="Contact" controller="Contact" action="Details" />
+    </mvcSiteMapNode>
+</mvcSiteMap>

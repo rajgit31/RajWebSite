@@ -1,0 +1,101 @@
+﻿
+/* HEADINGS   
+----------------------------------------------------------*/
+h1 { font-size: 1.5em; padding: 05px; }
+h4 { position: relative; padding: 20px; margin-bottom: -35px; }
+h6 { font-size: 5em; color: #FFFFFF; position: relative; }
+
+.toplogoheader { background-repeat: no-repeat; height: 90px; margin-left: 0px; margin-right: 0px; width: 1200px; }
+
+/*my blog*/
+.mybloglink { margin-left: 770px; margin-top: -90px; }
+
+/*Twitter*/
+.mytwitter { margin-left: 880px; margin-top: -48px; }
+
+
+/* BODY   
+----------------------------------------------------------*/
+body { background: #092D4C; font-size: 14px; font-family: Arial; color: #08090A; text-decoration: none; }
+.main { padding: 40px 10px 10px 10px; }
+.page { width: 1000px; background: none repeat scroll 0 0 #F1F5F6; margin: 25px auto 0px auto; border: 1px solid #496077; }
+
+
+/* COMMON   
+----------------------------------------------------------*/
+.clear { clear: both; }
+
+:link img { border: none; }
+:visited img { border: none; }
+
+
+li { list-style-image: url("Images/arrow2.png"); }
+
+/*News*/
+.news li { list-style-image: url(""); padding:10px;}
+   
+
+/*home page headers*/
+.b1f, .b2f, .b3f, .b4f { font-size: 1px; overflow: hidden; display: block; }
+.b1f { height: 1px; background: #114C84; margin: 0 5px; }
+.b2f { height: 1px; background: #114C84; margin: 0 3px; }
+.b3f { height: 1px; background: #114C84; margin: 0 2px; }
+.b4f { height: 2px; background: #114C84; margin: 0 1px; }
+.rounded { background: #114C84; }
+.rounded div { margin-left: 10px; color: #FFFFFF; }
+.blockheader { width: 694px; }
+.homepageleftcontent { width: 700px; }
+
+
+
+a:link { color: #005BB7; text-decoration: none; }
+a:visited { color: #005BB7; text-decoration: none; }
+a:hover { color: #005BB7; text-decoration: underline; }
+a:active { color: #005BB7; text-decoration: none; }
+
+
+/*----------------------SITE MAP NAV------------------------------------*/
+.nav ul { margin: 10px 10px 10px -40px; }
+.nav li { background: #0C2A4C none repeat scroll 0 0; display: block; float: left; margin-right: 2px; }
+.nav .menu { background: #7280FF none repeat scroll 0 0; }
+.nav li:hover { background-color: #7280FF; }
+.nav a { color: #FFFFFF; display: block; padding: 3px 35.6px; text-decoration: none; font-size: 15px; }
+
+
+
+/*............................side bar...........................*/
+.rightsidebar { margin-left: 745px;  margin-top: -1100px; width:220px;  float:right; }
+
+
+.b1fs, .b2fs, .b3fs, .b4fs { font-size: 1px; overflow: hidden; display: block; }
+.b1fs { height: 1px; background: #D3D3D3; margin: 0 5px; }
+.b2fs { height: 1px; background: #D3D3D3; margin: 0 3px; }
+.b3fs { height: 1px; background: #D3D3D3; margin: 0 2px; }
+.b4fs { height: 2px; background: #D3D3D3; margin: 0 1px; }
+.roundeds { background: #D3D3D3; }
+.roundeds div { margin-left: 10px; font-weight: normal; color: #1B293E;  }
+
+.usergroups { margin-top: 50px; }
+.currentlyreading { width: 120px; height: 120px; margin-top: 16px; margin-left: 30px; }
+.events li { list-style-image: url(""); margin-left: -20px; padding-bottom: 5px; font-size: 12px; margin-top: -5px; }
+
+.groups li { list-style-image: url(""); margin-left: -20px; padding-bottom: 5px; font-size: 12px; margin-top: -5px; }
+
+
+
+/***************Book Reviews***********************/
+.bookReviewImage { height: 200px; width: 200px; margin-left: 20px; margin-bottom: 20px; }
+.bookReviewContent { margin-left: 20px; }
+.bookReviewHeader { margin-left: 20px; font-size: 18px; margin-bottom: 20px; }
+
+
+/*............................footer...........................*/
+.footer { margin-left: 500px; width: 600px; margin-top: 5px; text-align: center; }
+
+.clearfix {display:block;}
+
+/*............................sitePurpose...........................*/
+.sitePurpose{ background-color: #333333;
+    color: White;
+    padding: 10px ; }
+

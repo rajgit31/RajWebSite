@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<x:items xmlns:x="urn:items">
+    <!--C#-->    
+    <item>
+        <title>Keeping your C# code clean with Regionerate</title>
+        <url>http://blog.rajsoftware.com/post/2011/10/17/Keeping-you-C-code-clean-with-Regionerate.aspx</url>
+        <date>2011-10-17</date>
+        <type>CSharp</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2011/10/01/returning-null-from-a-generic-method.aspx</url>
+        <title>Returning Null from a generic method</title>
+        <date>2011-10-01</date>
+        <type>CSharp</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2011/05/05/Tip-on-e2809cType-Inference-in-Generic-Methodse2809d.aspx</url>
+        <title>A tip on type Inference in Generic Methods</title>
+        <date>2011-05-05</date>
+        <type>CSharp</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/05/30/Working-with-Strings-in-CShapNET.aspx </url>
+        <title>Working with Strings in C#.NET</title>
+        <date>2010-05-30</date>
+        <type>CSharp</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/05/29/Tips-when-converting-VBNET-to-C.aspx</url>
+        <title>Tips for converting VB.NET to C#</title>
+        <date>2010-05-29</date>
+        <type>CSharp</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/04/30/Debugging-Visualizing-and-Querying-data-using-LINQ.aspx</url>
+        <title>Debugging, Visualizing and Querying data using LINQ</title>
+        <date>2010-04-30</date>
+        <type>CSharp</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/08/26/Attribute-based-Performance-Counters-with-Enterprise-Library-41.aspx</url>
+        <title>Attribute based Performance Counters with Enterprise Library 4.1</title>
+        <date>2010-08-26</date>
+        <type>CSharp</type>
+    </item>
+    <item>
+        <url>
+            http://blog.rajsoftware.com/post/2010/08/21/Getting-started-with-Enterprise-Library-Performance-Counters.aspx"
+        </url>
+        <title>Getting started with Enterprise Library Performance Counters.</title>
+        <date>2010-08-24</date>
+        <type>CSharp</type>
+    </item>
+        
+    <!--UnitTests-->
+    <item>
+        <url>http://blog.rajsoftware.com/post/2011/10/18/asp-net-mvc-unit-tests-with-unityautomoq-container.aspx</url>
+        <title>ASP.NET MVC Unit Tests with UnityAutoMoq Container</title>
+        <date>2011-10-18</date>
+        <type>UnitTests</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2011/06/07/Moq-4-and-e2809cLINQ-to-Mockse2809d.aspx</url>
+        <title>Moq 4 and “LINQ to Mocks”</title>
+        <date>2011-06-07</date>
+        <type>UnitTests</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/11/28/Automating-QUnit-and-JSTestDriver-within-VS2010.aspx</url>
+        <title>Automating QUnit and JSTestDriver within VS2010 </title>
+        <date>2010-11-28</date>
+        <type>UnitTests</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/11/23/Code-Camp-OZ2010-Real-World-Unit-Testing-And-Future.aspx </url>
+        <title>Code Camp OZ2010 - Real World Unit Testing &amp; Future</title>
+        <date>2010-11-23</date>
+        <type>UnitTests</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/11/23/Code-Camp-OZ2010-Real-World-Unit-Testing-And-Future.aspx"</url>
+        <title>Why you should consider using xUnit.</title>
+        <date>2011-10-24</date>
+        <type>UnitTests</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/09/19/Why-you-should-consider-using-xUnit.aspx</url>
+        <title>Why you should consider using xUnit.</title>
+        <date>2010-09-19</date>
+        <type>UnitTests</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/05/15/Useful-Unit-Testing-Research-Tools.aspx </url>
+        <title>Useful Unit Testing Research Tools</title>
+        <date>2010-05-15</date>
+        <type>UnitTests</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/05/13/Tooling-support-for-Unit-Tests-and-TDD-(Test-Driven-Development).aspx</url>
+        <title>Tooling support for Unit Tests and TDD (Test Driven Development)</title>
+        <date>2010-05-13</date>
+        <type>UnitTests</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/Practical-approach-to-Unit-Testing.aspx"</url>
+        <title>Practical approach to Unit Testing</title>
+        <date>2010-05-09</date>
+        <type>UnitTests</type>
+    </item>
+              
+    <!--VS-->    
+    <item>
+        <title>New Version of WebForms to Razor converter (VS Extension) - (1.1)</title>
+        <url>http://visualstudiogallery.msdn.microsoft.com/d2bfd1ca-9808-417c-b963-eb1ea4896790</url>
+        <date>2011-05-21</date>
+        <type>VisualStudio</type>
+    </item>
+    <item>
+        <title>VS2010 and ReSharper performances</title>
+        <url>http://blog.rajsoftware.com/post/2011/02/01/VS2010-and-ReSharper-performances.aspx</url>
+        <date>2011-02-01</date>
+        <type>VisualStudio</type>
+    </item>   
+    <item>
+        <title>Downgrading your VS projects from VS 2010 to VS 2008</title>
+        <url>http://blog.rajsoftware.com/post/2010/08/13/Downgrading-your-VS-projects-from-VS-2010-to-VS-2008.aspx</url>
+        <date>2010-08-13</date>
+        <type>VisualStudio</type>
+    </item>
+    <item>
+        <title>VS2010 Undo Close Documents</title>
+        <url>http://blog.rajsoftware.com/post/2010/05/19/VS2010-Undo-Close-Documents.aspx</url>
+        <date>2010-05-19</date>
+        <type>VisualStudio</type>
+    </item>
+    <item>
+        <title>VS2010 RC bugs 2(two) that I reported in MS Connect</title>
+        <url>http://blog.rajsoftware.com/post/2010/04/10/VS2010-RC-bugs-2(two)-that-I-reported-in-MS-Connect.aspx</url>
+        <date>2010-04-10</date>
+        <type>VisualStudio</type>
+    </item>
+    <item>
+        <title>VS 2010 IDE Enhancements - Quick Start</title>
+        <url>http://blog.rajsoftware.com/post/2010/04/04/VS-2010-IDE-Enhancements-Quick-Start.aspx</url>
+        <date>2010-04-04</date>
+        <type>VisualStudio</type>
+    </item>
+    <item>
+        <title>Debug Visualizers</title>
+        <url>http://blog.rajsoftware.com/post/2010/04/04/Debug-Visualizers.aspx</url>
+        <date>2010-04-04</date>
+        <type>VisualStudio</type>
+    </item>
+            
+    <!--ASPNE/ASPNETT MVC-->
+    <item>
+        <url>http://www.dotnetcurry.com/ShowArticle.aspx?ID=715</url>
+        <title>Diving into ASP.NET MVC 3 Model Metadata Providers</title>
+        <date>2010-06-03</date>
+        <type>ASPNET</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2011/05/14/MVC3-Filter-Ordering.aspx</url>
+        <title>MVC 3 Filter Ordering</title>
+        <date>2011-05-21</date>
+        <type>ASPNET</type>
+    </item>   
+    <item>
+        <url>http://blog.rajsoftware.com/post/2011/05/05/Tip-on-e2809cType-Inference-in-Generic-Methodse2809d.aspx </url>
+        <title>A tip on type Inference in Generic Methods</title>
+        <date>2011-05-21</date>
+        <type>ASPNET</type>
+    </item>   
+    <item>
+        <url>http://blog.rajsoftware.com/post/2011/04/24/Getting-Started-with-T4MVC.aspx</url>
+        <title>Getting Started With T4MVC</title>
+        <date>2011-04-23</date>
+        <type>ASPNET</type>
+    </item>
+    <item>
+        <url>http://blog.rajsoftware.com/post/2011/02/27/Enhanced-Telerike28099s-WebForms-(ASPX-ASCX)-to-Razor-(CSHTML)-Converter.aspx" </url>
+        <title>Web Forms to Razor Converter</title>
+        <date>2011-02-24</date>
+        <type>ASPNET</type>
+    </item>    
+    <item>
+        <url>http://blog.rajsoftware.com/post/2010/08/10/ASPNET-MVC-3-Preview-1-Source-code.aspx"</url>
+        <title>MVC3 Preview 1 source code.</title>
+        <date>2010-08-24</date>
+        <type>ASPNET</type>
+    </item>   
+    <item>
+        <url>http://blog.rajsoftware.com/post/MVC2-Validation-step-by-step.aspx"</url>
+        <title>MVC2 Validation step by step. </title>
+        <date>2010-06-24</date>
+        <type>ASPNET</type>
+    </item>    
+    
+    <!--Book Reviews-->
+    <item>
+        <url>/BookReviews/Details#Art-2"></url>
+        <title>Microsoft Enterprise Library 5.0</title>
+        <date>2011-01-24</date>
+        <type>BookReviews</type>
+    </item>
+    <item>
+        <url>/BookReviews/Details#Art-1"></url>
+        <title>Art of Unit Testsing</title>
+        <date>2010-12-24</date>
+        <type>BookReviews</type>
+    </item>
+    <item>
+        <url>/BookReviews/Details#WCF-C"></url>
+        <title>
+            Visual Studio 2008: Windows Communication Foundation
+            (6461A)
+        </title>
+        <date>2010-10-24</date>
+        <type>BookReviews</type>
+    </item>
+    <item>
+        <url>/BookReviews/Details#NET-2"></url>
+        <title>.NET Framework 2.0 Application Development Foundation</title>
+        <date>2010-09-24</date>
+        <type>BookReviews</type>
+    </item>
+    
+    <!--Blog List-->
+    <item>
+        <url>http://weblogs.asp.net/scottgu/" </url>
+        <title>ScottGu's Blog </title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://haacked.com/" </url>
+        <title>Phil Haack's Blog </title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://www.davidhayden.com/blog/dave/" </url>
+        <title>
+            David Hayden's Blog1
+        </title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://www.davidhayden.me/" </url>
+        <title>David Hayden's Blog2 </title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://www.osherove.com/blog" </url>
+        <title>Roy Osherove;s Blog</title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://weblogs.asp.net/mschwarz/default.aspx" </url>
+        <title>Mchael's Blog</title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://www.4guysfromrolla.com/blogs/" </url>
+        <title>4 Guys from Rolla.com </title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://professionalaspnet.com/default.aspx" </url>
+        <title>Chris Love's ASP.NET Blog</title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://www.hanselman.com/blog/" </url>
+        <title>Scott Hanselman's Blog </title>
+        <type>BlogsList</type>
+    </item>
+    <item>
+        <url>http://www.jeremyskinner.co.uk/about-me" </url>
+        <title>Jeremy Skinner Blog</title>
+        <type>BlogsList</type>
+    </item>
+        
+    <!--News-->
+    <item>
+        <url>http://www.dddsydney.com/</url>
+        <title>
+            DDD Sydney
+        </title>
+        <description>
+            When: 2nd &amp; 3rd July 09:00-17:00
+            Where: http://dddsydney.com/Where.aspx
+            Hash tag: #dddsydney
+            24 sessions, across 4 tracks covering a mix of web, ALM, mobile, and other server technologies
+        </description>
+        <type>News</type>
+        <date>2011-05-28</date>
+    </item>
+    <item>
+        <url>http://www.dddmelbourne.com/</url>
+        <title>
+            DDD Melbourne
+        </title>
+        <description>
+            When: 28th May 09:00-17:00
+            Where: Swinburne University Hawthorn Campus
+            Cost: $25
+            Hash tag: #dddmelb
+            <br />                
+            What a great conference! There were really good sessions, and great people.
+        </description>
+        <type>News</type>
+        <date>2011-05-28</date>
+    </item>
+    <item>
+        <url>http://www.deveve.net/</url>
+        <title>
+            Mercurial, NuGet and Web Security
+        </title>
+        <description>
+            Web Security - Nice presentation by Mahesh Kirshnan, Excellent real world examples on security issues and case studies. He also exaplained a list of top 10 security threats and what we can do to mitigate those security threats. 
+            <br />
+            Mercurial, NuGet - Again a nice presentation by David Burela. David explained the Mecurial with some really nice demos and how it works in a distibuted version control system.
+            He also showed how to pullout third party assemblies and their dependencies directly into VS using NuGet.
+        </description>
+        <type>News</type>
+        <date>2011-04-05</date>
+    </item>
+    <item>
+        <url>http://vicdotnet-april.eventbrite.com/</url>
+        <title>
+            VIctoria.NET metting Tuesday, April 05, 2011 5:30 PM - 8:00 PM (GMT+1000).
+        </title>
+        <description>
+            Himanshu Desai, a Senior Consutant from Redify introduces the Rest Support in WCF, He also gave an overview of WCF
+            Web API. The first half of the session was more acadamic, and I was expecting more on Web API. Overall it is a nice presentation.
+
+            Behaviour Driven Development in .NET -
+            Nice presentation on BDD concepts and NBehave. Christian was passionate about the BDD/TDD pattern
+            and dilivered a nice presentation. I like the concept of BDD and how it assists reducing the gap between the stakeholders and developers.
+            It is a great way to clarify requirements. However I persoanally prefer Unit Tests and TDD over BDD.
+            BDD doesn't assist to design a better system, but assists eleminating misunderstrand of requirements.
+            In real world due to time constraints not all organisation adapting this approach.
+        </description>
+        <type>News</type>
+        <date>2011-04-05</date>
+    </item>
+    <item>
+        <url>http://www.telerik.com/australia.aspx</url>
+        <title>Telerik is coming to Australia! Tuesday, March 15, 2011 9:00 AM - 12:00 PM (GMT+1000)</title>
+        <type>News</type>
+        <date>2011-03-15</date>
+
+    </item>
+    <item>
+        <url>Virtual ASP.NET MVC Conference" </url>
+        <title>December Alt.NET Meeting - Ayende Rahieng</title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>http://codecampoz.com/</url>
+        <title>
+            Code Camp OZ - 20th/21st of November 2010 : Registration is now open
+        </title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>http://www.osdc.com.au/</url>
+        <title>
+            Open source developer conference
+            - 24th to the 26th of November Registration for OSDC 2010 is opening September 24th
+        </title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>http://www.dddsydney.com/</url>
+        <title>
+            DDD Sydney Event - Saturday
+            the 17th of July at the Microsoft in Sydney's North Ryde
+        </title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>http://openspacecodeoz.eventbrite.com/</url>
+        <title>Remix - 1-2 June 2010, Melbourne</title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>http://www.dddmelbourne.com/DDD/Agenda</url>
+        <title>
+            DDD Melbourne Event
+            - Saturday 15th May 2010 : All sessions are now booked out. You may add to 'Wait
+            list'.
+        </title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>http://www.nerddinner.com/2070 </url>
+        <title>
+            Nerd dinner on Saturday
+            evening - Saturday 15th May 2010
+        </title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>http://www.victoriadotnet.com.au/vic-events/vic-technical-events.aspx </url>
+        <title>
+            Next Victoria .NET Meeting - Wednesday 14th April 2010 5:30pm for
+            a 6pm start, Microsoft Theatre. Level 5, 4 Freshwater Place, Southbank. Topics:
+            Visual Studio 2010 - A session with the man behind the product that you know as
+            Visual Studio Team System/ALM and TFS - Sam Guckenheimer
+        </title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>http://www.victoriadotnet.com.au/vic-events/vic-technical-events.aspx</url>
+        <title>
+            Next Victoria .NET Meeting - Tuesday 9th March 2010 5:30pm for a
+            6pm start, Microsoft Theatre. Level 5, 4 Freshwater Place, Southbank. Topics: Microsoft
+            Sync Framework Overview, Building RESTful Services in .NET
+        </title>
+        <type>News</type>
+    </item>
+    <item>
+        <url>https://www.infosalons.com.au/teched2010/prereg/register.asp </url>
+        <title>Register for your interest on Tech Ed 2010 Australia</title>
+        <type>News</type>
+    </item>
+</x:items>
